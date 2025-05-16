@@ -1,10 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\apps web\\TRABAJO FINAL\\BloomTech\\",
+  "WorkspaceRootPath": "D:\\geyson\\Landing-page\\BloomTech\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|D:\\apps web\\TRABAJO FINAL\\BloomTech\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\apps web\\TRABAJO FINAL\\BloomTech\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,13 +24,11 @@
               "DocumentIndex": 0,
               "Title": "index.html",
               "DocumentMoniker": "D:\\apps web\\TRABAJO FINAL\\BloomTech\\index.html",
-              "RelativeDocumentMoniker": "index.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\apps web\\TRABAJO FINAL\\BloomTech\\index.html",
               "ToolTip": "D:\\apps web\\TRABAJO FINAL\\BloomTech\\index.html",
-              "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\apps web\\TRABAJO FINAL\\BloomTech\\index.html",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-27T07:55:39.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T07:55:39.085Z"
             }
           ]
         }
